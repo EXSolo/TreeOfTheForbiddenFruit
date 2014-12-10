@@ -1,0 +1,11 @@
+name: LucTree
+version: 0.1
+description: The tree of the forbidden fruit
+author: EXSolo
+website: www.exsoloscript.com
+
+main: com.exsoloscript.treeoftheforbiddenfruit.TreeOfTheForbiddenFruit
+commands:
+ luctree:
+   description: Main comand
+   usage: Syntax error! Simply type /luctree help for more information.

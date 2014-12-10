@@ -1,0 +1,14 @@
+# The tree of the forbidden fruit - Plugin by EXSolo
+config:
+  timer:
+    min-until-first-tree: 20
+    min-after-tree-breaks: 20
+  tree:
+    blocks-to-destroy:
+    - WOOD
+    - LOG
+  center:
+    data: ''
+    world: world
+    # If 0 0 would be the center the radius would go from 500 to -500
+    radius: 500
